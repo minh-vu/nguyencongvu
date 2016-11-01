@@ -1,0 +1,76 @@
+.sectionxxx {margin-top: 40px;}
+img.logo {margin-top: 5px; margin-left: 5px; height: 75px;}
+
+/*== Logo font ==============================================*/ 
+.logo-text {font-size: 80%}
+.logo-font {font-family: 'Roboto', sans-serif;}
+/*.logo-font {font-family: 'Pattaya', sans-serif;}*/
+
+/*== BODY font ==============================================*/ 
+body {font-size: 100%;}
+.body-font {font-family: 'Roboto', sans-serif;}
+/*.body-font {font-family: 'Arimo', sans-serif;*/
+/*.body-font {font-family: 'Athiti', sans-serif; }*/
+/*.body-font {font-family: 'Maitree', serif;}*/
+/*.body-font {font-family: 'Mitr', sans-serif;}*/
+/*.body-font {font-family: 'Noticia Text', serif;}*/
+/*.body-font {font-family: 'Open Sans', sans-serif;}*/
+/*.body-font {font-family: 'Pridi', serif;}*/
+/*.body-font {font-family: 'Prompt', sans-serif;}*/
+/*.body-font {font-family: 'Roboto Slab', serif;}*/
+/*.body-font {font-family: 'Trirong', serif; } */
+
+/*== h1 HEADING font ===========================================*/
+h1 {font-size: 340%;}
+.h1-font {font-family: 'Kanit', sans-serif; }
+/*.h1-font {font-family: 'Maitree', sans-serif;  }*/
+/*.h1-font {font-family: 'Arimo', sans-serif;  }*/
+/*.h1-font {font-family: 'Athiti', sans-serif;  }*/
+/*.h1-font {font-family: 'Mitr', sans-serif;  }*/
+/*.h1-font {font-family: 'Noticia Text', serif; }*/
+/*.h1-font {font-family: 'Open Sans', sans-serif; }*/
+/*.h1-font {font-family: 'Pridi', serif; }*/
+/*.h1-font {font-family: 'Prompt', sans-serif; }*/
+/*.h1-font {font-family: 'Roboto', sans-serif; }*/
+/*.h1-font {font-family: 'Roboto Slab', serif; }*/
+/*.h1-font {font-family: 'Trirong', serif; }*/
+
+h1 b {font-family: 'Kanit', serif; } /*Phan boi dam trong h1*/ 
+.cta {font-size: 110%; letter-spacing: 0.1em;font-family: 'Kanit', serif; } /* cta button*/ 
+
+/*== h2 HEADING font==*/ 
+h2 {font-size: 220%;}
+.h2-font {font-family: 'Sriracha', cursive;}
+
+/*== h3 HEADING font==*/ 
+h3 {font-size: 200%;}
+.h3-font {font-family: 'Sriracha', cursive;}
+/*.h3-font {font-family: 'Lemonada', cursive; }*/
+/*.h3-font {font-family: 'Lobster', cursive;}*/
+/*.h3-font {font-family: 'Kanit', sans-serif;}*/
+/*.h3-font {font-family: 'Noto Serif', serif;}*/
+/*.h3-font {font-family: 'Pattaya', sans-serif;}*/
+/*.h3-font {font-family: 'Prompt', sans-serif;}*/
+/*.h3-font {font-family: 'Tinos', serif;}*/
+
+
+/*== h4 HEADING font==*/ 
+h4 {font-size: 160%;}
+
+/*== handwriting ==*/ 
+
+.owl-carousel .owl-item img{
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+}
+
+@media print body {
+    font-family: "Arial", serif;
+    font-size: 1em;
+    color: #333333;
+    margin-top: 2cm;
+    margin-right: 2cm;
+    margin-bottom: 1.5cm;
+    margin-left: 2cm;
+}

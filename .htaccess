@@ -1,0 +1,4 @@
+<FilesMatch "\.vcf$">
+    ForceType text/vcard
+    Header set Content-Disposition attachment
+</FilesMatch>
